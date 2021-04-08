@@ -4,7 +4,7 @@ title: CV/Resume
 permalink: /cv-resume/
 ---
 
-### [PDF of full CV](../../images/CV_Nov2020.pdf)
+### [PDF of full CV](../../images/CV_Apr2021.pdf)
 ### [PDF of full Resume](../../images/Resume_2021.pdf)
 
 
